@@ -1,0 +1,1311 @@
+{
+    "1": {
+        "First": {
+            "1A": {
+                "Feature": [
+                    "Window"
+                ]
+            },
+            "1B": {
+                "Feature": [
+                    "Aisle"
+                ]
+            },
+            "1E": {
+                "Feature": [
+                    "Aisle"
+                ]
+            },
+            "1F": {
+                "Feature": [
+                    "Window"
+                ]
+            }
+        },
+        "cabinClass": "First"
+    },
+    "10": {
+        "Economy": {
+            "10A": {
+                "Feature": [
+                    "Window"
+                ]
+            },
+            "10B": {
+                "Feature": [
+                    "Center"
+                ]
+            },
+            "10C": {
+                "Feature": [
+                    "Aisle"
+                ]
+            },
+            "10D": {
+                "Feature": [
+                    "Aisle"
+                ]
+            },
+            "10E": {
+                "Feature": [
+                    "Center"
+                ]
+            },
+            "10F": {
+                "Feature": [
+                    "Window"
+                ]
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "11": {
+        "Economy": {
+            "11A": {
+                "Feature": [
+                    "Window"
+                ]
+            },
+            "11B": {
+                "Feature": [
+                    "Center"
+                ]
+            },
+            "11C": {
+                "Feature": [
+                    "Aisle"
+                ]
+            },
+            "11D": {
+                "Feature": [
+                    "Aisle"
+                ]
+            },
+            "11E": {
+                "Feature": [
+                    "Center"
+                ]
+            },
+            "11F": {
+                "Feature": [
+                    "Window"
+                ]
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "12": {
+        "Economy": {
+            "12A": {
+                "Feature": [
+                    "Preferred",
+                    "Window",
+                    "Chargeable"
+                ]
+            },
+            "12B": {
+                "Feature": [
+                    "Preferred",
+                    "Center",
+                    "Chargeable"
+                ]
+            },
+            "12C": {
+                "Feature": [
+                    "Preferred",
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "4200"
+            },
+            "12D": {
+                "Feature": [
+                    "Preferred",
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "4200"
+            },
+            "12E": {
+                "Feature": [
+                    "Preferred",
+                    "Center",
+                    "Chargeable"
+                ]
+            },
+            "12F": {
+                "Feature": [
+                    "Preferred",
+                    "Window",
+                    "Chargeable"
+                ]
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "14": {
+        "Economy": {
+            "14A": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "2700"
+            },
+            "14B": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "2600"
+            },
+            "14C": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "4200"
+            },
+            "14D": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "4200"
+            },
+            "14E": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "2600"
+            },
+            "14F": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "2700"
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "15": {
+        "Economy": {
+            "15A": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "2700"
+            },
+            "15B": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "2600"
+            },
+            "15C": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "4200"
+            },
+            "15D": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "4200"
+            },
+            "15E": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "2600"
+            },
+            "15F": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "2700"
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "2": {
+        "First": {
+            "2A": {
+                "Feature": [
+                    "Window"
+                ]
+            },
+            "2B": {
+                "Feature": [
+                    "Aisle"
+                ]
+            },
+            "2E": {
+                "Feature": [
+                    "Aisle"
+                ]
+            },
+            "2F": {
+                "Feature": [
+                    "Window"
+                ]
+            }
+        },
+        "cabinClass": "First"
+    },
+    "20": {
+        "Economy": {
+            "20A": {
+                "Feature": [
+                    "Limited Recline",
+                    "Overwing",
+                    "Window"
+                ]
+            },
+            "20B": {
+                "Feature": [
+                    "Limited Recline",
+                    "Overwing",
+                    "Center"
+                ]
+            },
+            "20C": {
+                "Feature": [
+                    "Limited Recline",
+                    "Overwing",
+                    "Aisle"
+                ]
+            },
+            "20D": {
+                "Feature": [
+                    "Limited Recline",
+                    "Overwing",
+                    "Aisle"
+                ]
+            },
+            "20E": {
+                "Feature": [
+                    "Limited Recline",
+                    "Overwing",
+                    "Center"
+                ]
+            },
+            "20F": {
+                "Feature": [
+                    "Limited Recline",
+                    "Overwing",
+                    "Window"
+                ]
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "21": {
+        "Economy": {
+            "21A": {
+                "Feature": [
+                    "Overwing",
+                    "Window"
+                ]
+            },
+            "21B": {
+                "Feature": [
+                    "Overwing",
+                    "Center"
+                ]
+            },
+            "21C": {
+                "Feature": [
+                    "Overwing",
+                    "Aisle"
+                ]
+            },
+            "21D": {
+                "Feature": [
+                    "Overwing",
+                    "Aisle"
+                ]
+            },
+            "21E": {
+                "Feature": [
+                    "Overwing",
+                    "Center"
+                ]
+            },
+            "21F": {
+                "Feature": [
+                    "Overwing",
+                    "Window"
+                ]
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "22": {
+        "Economy": {
+            "22A": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "2700"
+            },
+            "22B": {
+                "Feature": [
+                    "Overwing",
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "22C": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "4200"
+            },
+            "22D": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "4200"
+            },
+            "22E": {
+                "Feature": [
+                    "Overwing",
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "22F": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "2700"
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "23": {
+        "Economy": {
+            "23A": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "2700"
+            },
+            "23B": {
+                "Feature": [
+                    "BlockedSeat_Permanent",
+                    "Overwing",
+                    "Center",
+                    "Chargeable"
+                ]
+            },
+            "23C": {
+                "Feature": [
+                    "Preferred",
+                    "BlockedSeat_Permanent",
+                    "Overwing",
+                    "Aisle",
+                    "Chargeable"
+                ]
+            },
+            "23D": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "4200"
+            },
+            "23E": {
+                "Feature": [
+                    "Overwing",
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "23F": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "2700"
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "24": {
+        "Economy": {
+            "24A": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "2700"
+            },
+            "24B": {
+                "Feature": [
+                    "Overwing",
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "24C": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "4200"
+            },
+            "24D": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "4200"
+            },
+            "24E": {
+                "Feature": [
+                    "Overwing",
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "24F": {
+                "Feature": [
+                    "Preferred",
+                    "Overwing",
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "2700"
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "25": {
+        "Economy": {
+            "25A": {
+                "Feature": [
+                    "Preferred",
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "2700"
+            },
+            "25B": {
+                "Feature": [
+                    "BlockedSeat_Permanent",
+                    "Center",
+                    "Chargeable"
+                ]
+            },
+            "25C": {
+                "Feature": [
+                    "BlockedSeat_Permanent",
+                    "Aisle",
+                    "Chargeable"
+                ]
+            },
+            "25D": {
+                "Feature": [
+                    "Preferred",
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "4200"
+            },
+            "25E": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "25F": {
+                "Feature": [
+                    "Preferred",
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "2700"
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "26": {
+        "Economy": {
+            "26A": {
+                "Feature": [
+                    "Preferred",
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "2700"
+            },
+            "26B": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "26C": {
+                "Feature": [
+                    "Preferred",
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "4200"
+            },
+            "26D": {
+                "Feature": [
+                    "Preferred",
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "4200"
+            },
+            "26E": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "26F": {
+                "Feature": [
+                    "Preferred",
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "2700"
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "27": {
+        "Economy": {
+            "27A": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            },
+            "27B": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ]
+            },
+            "27C": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ]
+            },
+            "27D": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "1800"
+            },
+            "27E": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "27F": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "28": {
+        "Economy": {
+            "28A": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            },
+            "28B": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "28C": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "1800"
+            },
+            "28D": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ]
+            },
+            "28E": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "28F": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "29": {
+        "Economy": {
+            "29A": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            },
+            "29B": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "29C": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "1800"
+            },
+            "29D": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "1800"
+            },
+            "29E": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "29F": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "30": {
+        "Economy": {
+            "30A": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            },
+            "30B": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "30C": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "1800"
+            },
+            "30D": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "1800"
+            },
+            "30E": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "30F": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "31": {
+        "Economy": {
+            "31A": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            },
+            "31B": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "31C": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "1800"
+            },
+            "31D": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "1800"
+            },
+            "31E": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "31F": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "32": {
+        "Economy": {
+            "32A": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            },
+            "32B": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "32C": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "1800"
+            },
+            "32D": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "1800"
+            },
+            "32E": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "32F": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "34": {
+        "Economy": {
+            "34A": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            },
+            "34B": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "34C": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "1800"
+            },
+            "34D": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "1800"
+            },
+            "34E": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "34F": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "35": {
+        "Economy": {
+            "35A": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            },
+            "35B": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "35C": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "1800"
+            },
+            "35D": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "1800"
+            },
+            "35E": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "35F": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "36": {
+        "Economy": {
+            "36A": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            },
+            "36B": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "36C": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "1800"
+            },
+            "36D": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "1800"
+            },
+            "36E": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "36F": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "37": {
+        "Economy": {
+            "37A": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            },
+            "37B": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "37C": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "1800"
+            },
+            "37D": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "1800"
+            },
+            "37E": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "37F": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "38": {
+        "Economy": {
+            "38A": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            },
+            "38B": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "38C": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "1800"
+            },
+            "38D": {
+                "Feature": [
+                    "Aisle",
+                    "Chargeable"
+                ],
+                "Price": "1800"
+            },
+            "38E": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "38F": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ],
+                "Price": "1300"
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "39": {
+        "Economy": {
+            "39A": {
+                "Feature": [
+                    "Window",
+                    "Chargeable"
+                ]
+            },
+            "39B": {
+                "Feature": [
+                    "Center",
+                    "Chargeable"
+                ],
+                "Price": "1200"
+            },
+            "39C": {
+                "Feature": [
+                    "Aisle"
+                ]
+            },
+            "39D": {
+                "Feature": [
+                    "Aisle"
+                ]
+            },
+            "39E": {
+                "Feature": [
+                    "Center"
+                ]
+            },
+            "39F": {
+                "Feature": [
+                    "Window"
+                ]
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "7": {
+        "Economy": {
+            "7A": {
+                "Feature": [
+                    "Lavatory"
+                ]
+            },
+            "7B": {
+                "Feature": [
+                    "Lavatory"
+                ]
+            },
+            "7C": {
+                "Feature": [
+                    "Lavatory"
+                ]
+            },
+            "7D": {
+                "Feature": [
+                    "BlockedSeat_Permanent",
+                    "Aisle"
+                ]
+            },
+            "7E": {
+                "Feature": [
+                    "BlockedSeat_Permanent",
+                    "Center"
+                ]
+            },
+            "7F": {
+                "Feature": [
+                    "Window"
+                ]
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "8": {
+        "Economy": {
+            "8A": {
+                "Feature": [
+                    "Limited Recline",
+                    "Window"
+                ]
+            },
+            "8B": {
+                "Feature": [
+                    "Limited Recline",
+                    "Center"
+                ]
+            },
+            "8C": {
+                "Feature": [
+                    "Limited Recline",
+                    "Aisle"
+                ]
+            },
+            "8D": {
+                "Feature": [
+                    "Aisle"
+                ]
+            },
+            "8E": {
+                "Feature": [
+                    "Center"
+                ]
+            },
+            "8F": {
+                "Feature": [
+                    "Window"
+                ]
+            }
+        },
+        "cabinClass": "Economy"
+    },
+    "9": {
+        "Economy": {
+            "9A": {
+                "Feature": [
+                    "Window"
+                ]
+            },
+            "9B": {
+                "Feature": [
+                    "Center"
+                ]
+            },
+            "9C": {
+                "Feature": [
+                    "Aisle"
+                ]
+            },
+            "9D": {
+                "Feature": [
+                    "Aisle"
+                ]
+            },
+            "9E": {
+                "Feature": [
+                    "Center"
+                ]
+            },
+            "9F": {
+                "Feature": [
+                    "Window"
+                ]
+            }
+        },
+        "cabinClass": "Economy"
+    }
+}
